@@ -1,0 +1,21 @@
+movie_id,title,genres,keywords,director,cast,vote_average,vote_count
+1,The Shawshank Redemption,"Drama, Crime","prison escape hope friendship wrongful conviction",Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,26000
+2,The Godfather,"Crime, Drama","mafia organized crime family loyalty succession",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,19000
+3,The Dark Knight,"Action, Crime, Drama","superhero vigilante joker corruption dual identity",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.0,28000
+4,Pulp Fiction,"Crime, Drama, Thriller","nonlinear hitman redemption diner robbery boxer",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.9,21000
+5,Fight Club,"Drama, Thriller","anarchy split personality consumerism underground fighting",David Fincher,"Brad Pitt, Edward Norton, Helena Bonham Carter",8.8,22000
+6,Inception,"Action, Sci-Fi, Adventure","dream heist subconscious architecture reality memory",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,24000
+7,Interstellar,"Sci-Fi, Drama, Adventure","space exploration black hole time dilation wormhole family",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.7,20000
+8,The Matrix,"Action, Sci-Fi","simulated reality cyberpunk rebel chosen one martial arts",Lana Wachowski,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,20000
+9,Goodfellas,"Crime, Drama, Biography","mobster brooklyn heist betrayal organized crime",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,12000
+10,The Lord of the Rings: The Fellowship of the Ring,"Adventure, Fantasy, Action","one ring middle earth quest fellowship evil sorcerer",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.8,19500
+11,Spider-Man: Across the Spider-Verse,"Animation, Action, Adventure","multiverse superhero animation destiny canon event",Joaquim Dos Santos,"Shameik Moore, Hailee Steinfeld, Oscar Isaac",8.7,9000
+12,Avengers: Endgame,"Action, Adventure, Sci-Fi","time travel supervillain superhero ensemble marvel universe",Anthony Russo,"Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,24000
+13,Parasite,"Thriller, Drama, Comedy","class divide dark comedy poor family scam infiltration",Bong Joon-ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",8.5,17500
+14,Whiplash,"Drama, Music","jazz drumming obsession perfectionist abusive mentor conservatory",Damien Chazelle,"Miles Teller, J.K. Simmons, Paul Reiser",8.5,14000
+15,La La Land,"Comedy, Drama, Romance","jazz hollywood musical audition dreams heartbreak",Damien Chazelle,"Ryan Gosling, Emma Stone, John Legend",8.0,15000
+16,Blade Runner 2049,"Sci-Fi, Mystery, Thriller","replicant dystopia cyberpunk identity memory blade runner",Denis Villeneuve,"Ryan Gosling, Harrison Ford, Ana de Armas",8.0,11000
+17,Dune,"Sci-Fi, Adventure","desert spice prophesy empire giant worms space politics",Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson, Oscar Isaac",8.0,14000
+18,Oppenheimer,"Biography, Drama, History","atomic bomb manhattan project physics politics regret",Christopher Nolan,"Cillian Murphy, Emily Blunt, Matt Damon",8.9,13000
+19,Se7en,"Crime, Drama, Mystery","seven deadly sins detective serial killer rainy city gore",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,17000
+20,Spirited Away,"Animation, Adventure, Fantasy","bathhouse spirits magical world witch courage pig parents",Hayao Miyazaki,"Rumi Hiiragi, Miyu Irino, Mari Natsuki",8.6,13000
